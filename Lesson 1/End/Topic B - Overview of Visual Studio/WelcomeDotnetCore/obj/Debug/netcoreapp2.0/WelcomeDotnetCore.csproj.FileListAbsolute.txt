@@ -1,0 +1,33 @@
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.deps.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.runtimeconfig.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.dll
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.pdb
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.AssemblyInfo.cs
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.dll
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.pdb
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.deps.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.runtimeconfig.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.dll
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.pdb
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.AssemblyInfo.cs
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.dll
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.pdb
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.deps.json
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.runtimeconfig.json
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.dll
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\bin\Debug\netcoreapp2.0\WelcomeDotnetCore.pdb
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.AssemblyInfo.cs
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.dll
+C:\Code\BeginningModernCSharp\Lesson 1\End\Topic B - Overview of Visual Studio\WelcomeDotnetCore\obj\Debug\netcoreapp2.0\WelcomeDotnetCore.pdb

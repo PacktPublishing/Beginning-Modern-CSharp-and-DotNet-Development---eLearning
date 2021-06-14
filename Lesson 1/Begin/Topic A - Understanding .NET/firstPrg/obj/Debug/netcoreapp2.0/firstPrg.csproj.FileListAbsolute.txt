@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\bin\Debug\netcoreapp2.0\firstPrg.deps.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\bin\Debug\netcoreapp2.0\firstPrg.runtimeconfig.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\bin\Debug\netcoreapp2.0\firstPrg.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\bin\Debug\netcoreapp2.0\firstPrg.dll
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\bin\Debug\netcoreapp2.0\firstPrg.pdb
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\obj\Debug\netcoreapp2.0\firstPrg.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\obj\Debug\netcoreapp2.0\firstPrg.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\obj\Debug\netcoreapp2.0\firstPrg.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\obj\Debug\netcoreapp2.0\firstPrg.AssemblyInfo.cs
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\obj\Debug\netcoreapp2.0\firstPrg.dll
+C:\Code\BeginningModernCSharp\Lesson 1\Begin\Topic A - Understanding .NET\firstPrg\obj\Debug\netcoreapp2.0\firstPrg.pdb
