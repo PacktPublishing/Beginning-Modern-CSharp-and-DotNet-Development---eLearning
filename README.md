@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789137705)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Modern-CSharp-and-DotNet-Development-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Modern-CSharp-and-DotNet-Development-eLearning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Modern-CSharp-and-DotNet-Development-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Modern-CSharp-and-DotNet-Development-eLearning/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Modern-CSharp-and-DotNet-Development-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Modern-CSharp-and-DotNet-Development-eLearning/stargazers)
