@@ -10,8 +10,8 @@ namespace Basics
 			//WriteStatement(); 
 			SaySomething("Rey");
 			Female female = new Female();
-			female.name = "Cindy"; 
-			Console.WriteLine($"Her name is {female.name}");
+			female.Name = "Cindy"; 
+			Console.WriteLine($"Her name is {female.Name}");
 		} 
 		
 		// Overloading 
@@ -43,7 +43,6 @@ namespace Person
 {
 	public class Female
 	{
-		Public string Name { get; set; }
+		public string Name { get; set; }
 	}
 }
-
